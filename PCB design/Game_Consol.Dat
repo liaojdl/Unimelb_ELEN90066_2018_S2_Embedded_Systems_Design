@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Game_Consol.PrjPCB|ReportField=ProjectFullPath~C:\Users\Albert\Desktop\checked version\checked version\project materials\checked and resistor value changed\Game_Consol.PrjPCB|ReportField=Title~Bill of Materials For Project [Game_Consol.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~11:26:14 PM|ReportField=ReportDate~5/09/2018|ReportField=ReportDateTime~5/09/2018 11:26:14 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~54|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=CustomParameter~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~University of Melbourne|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~5/09/2018|ReportField=CurrentTime~10:48:11 PM|ReportField=Custom Field~|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Albert\Desktop\checked version\checked version\project materials\checked and resistor value changed\Game_Consol_Power.SchDoc|ReportField=DocumentName~Game_Consol_Power.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Student_#|ReportField=Engineer~Albert & David|ReportField=ImagePath~|ReportField=ModifiedDate~5/09/2018|ReportField=Organization~University of Melbourne|ReportField=ProjectName~Game_Consol.PrjPCB|ReportField=Revision~0.1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~10|ReportField=Time~|ReportField=Title~Schematic_Name|ReportField=Title_Project~Project_Title|ReportField=DataSourceFileName~Game_Consol.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Albert\Desktop\checked version\checked version\project materials\checked and resistor value changed\Game_Consol.PrjPCB|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1.5v|Battery Holder AA 1.5v|BT1|BATT_HOLDER|BAT|1
+2|1uF|Capacitor 100nF|C1, C4, C5, C7|0805|C 0805|4
+3|22uF|Capacitor 22uF|C2|1210|C 1210|1
+4|100nF|Capacitor 100nF|C3, C6, C8, C9, C10, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C25, C26|0805|C 0805|18
+5|=Value|Capacitor 100nF|C23|0805|C 0805|1
+6|18pF|Capacitor 100nF|C24|0805|C 0805|1
+7|Func|Light Emitting Diode|D1, D2|0805D|LED GREEN, LED RED|2
+8|JTAG|JTAG ATMEL connector|J1|BOXEDVERT10|JTAG_CON|1
+9|4.7uH|Inductor 4.7uH|L1|1210L|I 1210|1
+10|RTR025N03TL|N-Channel MOSFET|Q1|SOT23|MOSFET-N|1
+11|270|Resistor|R1|0805|R|1
+12|10k|Resistor|R2, R3|0805|R|2
+13|15|Resistor|R4, R5|0805|R|2
+14|1k|Resistor|R7|0805|R|1
+15|SW-PB|Push Button Switch|S1, S2, S3, S4, S5, S6, S7, S8|SPNO_SMD|SW-PB|8
+16|ATMEGA16|ATMEGA16 Microcontroller|U1|QFP-48|ATMEGA16|1
+17|74AUG1G80|Inverted single D flip flop|U2|SOT23-5|74AUG1G80|1
+18|SC120|Regulator Low Voltage|U3|SOT23-6|SC120|1
+19|74AHC30|1 x 8 Input NAND gate|U4|SOIC-14|74AHC30|1
+20|EA DOGS102x-6|LCD 102x64-pixel with backlight|U5|EA DOGS102x|EA DOGS102x-6|1
+21|FM25L04B|FRAM 4Kb Memory|U6|SOIC-8|FM25L04B|1
+22|Func|2 Pin Header|V15, V33|HDR1X2|HDR2|2
+23|7.68Mhz|Crystal Oscillator|X1|XTAL_FLAT_SMD|XTAL|1

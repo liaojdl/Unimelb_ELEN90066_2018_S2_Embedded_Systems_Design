@@ -1,0 +1,50 @@
+Net Status Report
+Filename     : C:\Users\Albert\Desktop\checked version\checked version\project materials\checked and resistor value changed - ¸±±¾\Game_Consol.PcbDoc
+Date         : 6/09/2018
+Time         : 1:39:00 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    1.5V, Signal Layers Only, 78.8592mm
+    3.3V, Signal Layers Only, 287.2101mm
+    A_BUTTON, Signal Layers Only, 67.1096mm
+    B_BUTTON, Signal Layers Only, 73.4983mm
+    DATA, Signal Layers Only, 28.7992mm
+    DOWN, Signal Layers Only, 34.5106mm
+    EN, Signal Layers Only, 31.5207mm
+    GND, Signal Layers Only, 159.0544mm
+    HOLD, Signal Layers Only, 25.3099mm
+    INTERRUPT, Signal Layers Only, 58.5873mm
+    LEFT, Signal Layers Only, 47.8824mm
+    MISO, Signal Layers Only, 51.9184mm
+    MOSI, Signal Layers Only, 77.8515mm
+    NetBatt Low_A, Signal Layers Only, 17.9974mm
+    NetC22_2, Signal Layers Only, 6.6181mm
+    NetC23_1, Signal Layers Only, 27.0135mm
+    NetC24_1, Signal Layers Only, 17.0221mm
+    NetC3_2, Signal Layers Only, 27.8719mm
+    NetC4_1, Signal Layers Only, 2.6958mm
+    NetC4_2, Signal Layers Only, 2.9608mm
+    NetC5_1, Signal Layers Only, 16.8326mm
+    NetC7_1, Signal Layers Only, 6.3064mm
+    NetL1_1, Signal Layers Only, 4.5501mm
+    NetPower ON_A, Signal Layers Only, 13.2332mm
+    NetQ1_1, Signal Layers Only, 3.9913mm
+    NetQ1_3, Signal Layers Only, 36.9458mm
+    NetR4_2, Signal Layers Only, 43.6647mm
+    NetR7_2, Signal Layers Only, 8.6527mm
+    PWM, Signal Layers Only, 3.8578mm
+    RESET, Signal Layers Only, 51.588mm
+    RIGHT, Signal Layers Only, 43.5385mm
+    RST, Signal Layers Only, 30.1827mm
+    SCK, Signal Layers Only, 81.1939mm
+    SS_LCD, Signal Layers Only, 31.5661mm
+    SS_RAM, Signal Layers Only, 17.9147mm
+    TCK, Signal Layers Only, 74.9903mm
+    TDI, Signal Layers Only, 94.6169mm
+    TDO, Signal Layers Only, 74.9996mm
+    TMS, Signal Layers Only, 81.1789mm
+    UP, Signal Layers Only, 47.1215mm
+    VB1, Signal Layers Only, 2.9608mm
+    WP, Signal Layers Only, 16.9867mm
+count : 42
